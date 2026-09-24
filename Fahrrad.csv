@@ -1,0 +1,11 @@
+Bike-ID;Modell;Typ;Farbe;Status
+B001;City Cruiser 300;City Bike;Rot;Vorhanden
+B002;Mountain Explorer 500;Mountain Bike;Schwarz;Reserviert
+B003;Urban Ride 250;City Bike;Blau;Vorhanden
+B004;Trail Master 700;Mountain Bike;Grau;Verliehen
+B005;Speed Road 100;Rennrad;Blau;Vorhanden
+B006;City Comfort 400;City Bike;Gelb;Vorhanden
+B007;Mountain Pro X;Mountain Bike;Rot;Reserviert
+B008;Road Racer 600;Rennrad;Schwarz;Vorhanden
+B009;Urban Comfort 350;City Bike;Grau;Verliehen
+B010;Adventure Bike 800;Mountain Bike;Blau;Vorhanden
